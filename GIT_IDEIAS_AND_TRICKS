@@ -1,0 +1,31 @@
+
+
+GIT (Comandos para uso com GITHUB)
+
+git clone - Para baixar o projeto a primeira vez na sua máquina.
+git add . - Para adicionar os arquivos nos commits.
+git commit - m "mensagem" - Para formalizar as mudanças.
+git push - Para subir as alterações no GitHub.
+git pull - Para receber o código atualizado.
+
+---------------------------------------------
+
+Tópicos para criação de Portfolio - GITHUB
+
+WEB
+- Login
+- Cadastro Simples
+- Relatórios
+
+MOBILE
+- Aplicativos para o dia a dia.
+- Saúde, finanças e organização
+
+GAME
+- Fases curtas e fáceis (3 a 5)
+- Jogos puzzle são ótimos, nada de física complicada
+
+TECNOLOGIAS
+- JS
+- Php
+- Etc.
