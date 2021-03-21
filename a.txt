@@ -2,3 +2,5 @@ Testando.
 Entendendoo o HEAD
 Esta linha foi modificada no ramo (branch) Master.
 Esta linha foi modificada no ramo Teste.
+
+Diretorio alterado em (ACAO-LINUX) - /media/paulo/Dev-Local/DEV/front-end/git
