@@ -6,9 +6,9 @@ Vai ter JavaScript e CSS.
 
 
 
-[Meu Github](https://gustavoguanabara.github.io)
+[Meu Github](https://github.com/paulorabelo)
 
-![CursoemVideo](https://www.cursoemvideo.com/wp-content/uploads/2019/08/cursoemvideo-logo.png)
+![PauloRabelo](https://www.img.png)
 
 
 
