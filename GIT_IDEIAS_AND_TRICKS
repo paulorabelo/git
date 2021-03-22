@@ -7,6 +7,8 @@ git add . - Para adicionar os arquivos nos commits.
 git commit - m "mensagem" - Para formalizar as mudanças.
 git push - Para subir as alterações no GitHub.
 git pull - Para receber o código atualizado.
+git fetch - Para verificar reposítorio remoto (GitHub).
+git remote -v - Para verificar branchs remotas.
 
 ---------------------------------------------
 
